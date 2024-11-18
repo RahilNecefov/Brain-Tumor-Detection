@@ -6,7 +6,6 @@ pandas
 matplotlib
 opencv-python
 pillow
-flask
 werkzeug
 scipy
 seaborn
@@ -50,7 +49,6 @@ ipywidgets
 isoduration
 jedi
 Jinja2
-joblib
 json5
 jsonpointer
 jsonschema
@@ -102,7 +100,6 @@ rfc3986-validator
 rpds-py
 ruamel.yaml
 ruamel.yaml.clib
-scikit-learn
 torch
 torchvision
 tornado
